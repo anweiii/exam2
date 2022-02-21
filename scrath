@@ -1,0 +1,9 @@
+    <div id = "slide">
+      <img class='symbol' src='x.png'>
+      <img class='symbol' src='o.png'>
+    </div>
+    <p id = "button">
+
+
+    if (count = 0) {block.value = 'X'; }
+  if (count = 1) {block.value = 'O' ;}
